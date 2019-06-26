@@ -5,10 +5,7 @@
 # a plot detailing Global Active Power (kilowatt) versus Frequency.
 # This is acomplished in a number of steps:
 
-# Load tidyr package
 
-library(tidyr)
-library(gsubfn)
 
 # Set working directory, save the zip file URL, and the zip file name
 
